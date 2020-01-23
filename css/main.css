@@ -1,0 +1,96 @@
+
+
+.navbar-nav li a{
+	padding-right: 0.5rem !important;
+    padding-left: 0.5rem !important;
+}
+
+.navbar-nav li a {
+  display: block;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-nav li a:hover, .nav-link:focus {
+  text-decoration: none;
+}
+
+.navbar-nav li a.disabled {
+  color: #6c757d;
+}
+
+
+.navbar-dark .navbar-nav a{
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-dark .navbar-nav a:hover, .navbar-dark .navbar-nav a:focus {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.navbar-dark .navbar-nav a.disabled {
+  color: rgba(255, 255, 255, 0.25);
+}
+
+.navbar-dark .navbar-nav .show > a,
+.navbar-dark .navbar-nav .active > a,
+.navbar-dark .navbar-nav a.show,
+.navbar-dark .navbar-nav a.active {
+  color: #fff;
+}
+
+.dropdown-item {
+  display: block !important;
+  width: 100% !important;
+  padding: 0.25rem 1.5rem !important;
+  clear: both !important;
+  font-weight: 400 !important;
+  color: #212529 !important;
+  text-align: inherit !important;
+  white-space: nowrap !important;
+  background-color: transparent !important;
+  border: 0 !important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  color: #16181b !important;
+  text-decoration: none !important;
+  background-color: #f8f9fa !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #fff !important;
+  text-decoration: none !important;
+  background-color: #007bff !important;
+}
+
+.dropdown-item.disabled, .dropdown-item:disabled {
+  color: #6c757d;
+  background-color: transparent !important;
+}
+
+.navbar-expand .navbar-nav .dropdown-menu {
+  position: absolute !important;
+}
+.navbar-expand .navbar-nav .dropdown-menu .dropdown-item{
+   display: block !important;
+  width: 100% !important;
+  padding: 0.25rem 1.5rem !important;
+  clear: both !important;
+  font-weight: 400 !important;
+  color: #212529 !important;
+  text-align: inherit !important;
+  white-space: nowrap !important;
+  background-color: transparent !important;
+  border: 0 !important;
+}
+
+.navbar-expand .navbar-nav .dropdown-menu-right {
+  right: 0 !important;
+  left: auto !important;
+}
+
+
+.navbar-expand .dropup .dropdown-menu {
+  top: auto;
+  bottom: 100%;
+}
