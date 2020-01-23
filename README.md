@@ -16,3 +16,7 @@ unica la que da epayco, la cual tambien uso para validar que no se envie dos vec
 pueden ver el funcionamiento de la app en este video
 https://drive.google.com/file/d/0B-HhZfJltfTUSkF0NWxKUTZDdDNhN202YkRvZXROYVBOTnFj/view?usp=sharing
 
+Arhcivo sql
+nombre base de datos cinema.sql
+Link: https://drive.google.com/file/d/0B-HhZfJltfTUcUxsQjQ4enZWNHdvTzFadWhnNVEwVzdzNm04/view?usp=sharing
+
