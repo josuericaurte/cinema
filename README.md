@@ -20,3 +20,5 @@ Arhcivo sql
 nombre base de datos cinema.sql
 Link: https://drive.google.com/file/d/0B-HhZfJltfTUcUxsQjQ4enZWNHdvTzFadWhnNVEwVzdzNm04/view?usp=sharing
 
+username: admin
+password: admin123
